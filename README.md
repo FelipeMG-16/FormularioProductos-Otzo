@@ -1,5 +1,5 @@
 # FormularioProductos-Otzo
 
-Formulario para agregar producots del proyecto demo "OTZO" 
+Formulario para agregar productos para el proyecto demo "OTZO" 
 
 
