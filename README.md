@@ -1,5 +1,15 @@
-# FormularioProductos-Otzo
+# Nuevo formulario de Login
 
-Formulario para agregar productos para el proyecto demo "OTZO" 
+## Formulario de Login con nuevos estilos 
+
+
+<!-- Add banner here -->
+![Banner](https://raw.githubusercontent.com/jcgeneration/newLogin/main/img/newLogin.png)
+
+
+
+
+
+
 
 
